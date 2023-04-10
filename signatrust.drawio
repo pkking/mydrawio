@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T06:07:45.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="xZJ1R7p6UZsNLdB7dNYJ" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T06:28:49.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="I69x_UuKbJHzJcLZu4bf" version="21.1.1" type="github">
   <diagram name="第 1 页" id="DXJGyLKz47heCSHpzHNM">
-    <mxGraphModel dx="1430" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DaVctwpaXnIbaY3s7kiL-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="DaVctwpaXnIbaY3s7kiL-62" target="DaVctwpaXnIbaY3s7kiL-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DaVctwpaXnIbaY3s7kiL-62" value="ContentType" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="120" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="xr7TNN4HcSWkNFldf1mO-2" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;PE/COFF file format&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="75" y="190" width="200" height="30" as="geometry" />
         </mxCell>
@@ -116,7 +122,7 @@
         <mxCell id="DaVctwpaXnIbaY3s7kiL-21" value="&lt;div&gt;WIN_CERTIFICATE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="510" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DaVctwpaXnIbaY3s7kiL-23" value="SignedData" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+        <mxCell id="DaVctwpaXnIbaY3s7kiL-23" value=" Authenticode signature" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="555" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DaVctwpaXnIbaY3s7kiL-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DaVctwpaXnIbaY3s7kiL-21">
@@ -132,37 +138,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DaVctwpaXnIbaY3s7kiL-30" value="Version" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="590" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DaVctwpaXnIbaY3s7kiL-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DaVctwpaXnIbaY3s7kiL-30">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="555" as="sourcePoint" />
-            <mxPoint x="430" y="505" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="550" y="602.5" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DaVctwpaXnIbaY3s7kiL-34" value="ContentInfo" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="630" width="120" height="30" as="geometry" />
+          <mxGeometry x="550" y="642.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DaVctwpaXnIbaY3s7kiL-35" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;PKCS #7 SignedData&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="540" width="170" height="30" as="geometry" />
+        <mxCell id="DaVctwpaXnIbaY3s7kiL-35" value="&lt;div&gt;Signed-data Content Typ&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;e&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="540" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DaVctwpaXnIbaY3s7kiL-36" value="Header" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="530" width="110" height="25" as="geometry" />
         </mxCell>
         <mxCell id="DaVctwpaXnIbaY3s7kiL-39" value="SignerInfo" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="690" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DaVctwpaXnIbaY3s7kiL-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="DaVctwpaXnIbaY3s7kiL-39">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="610" as="sourcePoint" />
-            <mxPoint x="430" y="749.9999999999998" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="550" y="702.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DaVctwpaXnIbaY3s7kiL-43" value="digestAlg" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="610" width="120" height="20" as="geometry" />
+          <mxGeometry x="550" y="622.5" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DaVctwpaXnIbaY3s7kiL-44" value="Certificates" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="660" width="120" height="30" as="geometry" />
+          <mxGeometry x="550" y="672.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DaVctwpaXnIbaY3s7kiL-51" value="..." style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="440" width="120" height="30" as="geometry" />
@@ -172,6 +166,33 @@
         </mxCell>
         <mxCell id="DaVctwpaXnIbaY3s7kiL-58" value="&lt;p class=&quot;heading-anchor&quot; id=&quot;the-attribute-certificate-table-image-only&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;pointer to The Attribute Certificate Table&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="500" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DaVctwpaXnIbaY3s7kiL-69" value="Content" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="590" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DaVctwpaXnIbaY3s7kiL-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaVctwpaXnIbaY3s7kiL-36" target="DaVctwpaXnIbaY3s7kiL-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="550" as="sourcePoint" />
+            <mxPoint x="430" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DaVctwpaXnIbaY3s7kiL-71" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="DaVctwpaXnIbaY3s7kiL-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="610" as="sourcePoint" />
+            <mxPoint x="430" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DaVctwpaXnIbaY3s7kiL-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DaVctwpaXnIbaY3s7kiL-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="560" as="sourcePoint" />
+            <mxPoint x="570" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DaVctwpaXnIbaY3s7kiL-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="DaVctwpaXnIbaY3s7kiL-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="620" as="sourcePoint" />
+            <mxPoint x="570" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
