@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T02:20:07.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="Bq7GRgRBGaoAuKbWL-Wk" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T06:07:35.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="b09N2xdma6OlZJ74s2JK" version="21.1.1" type="github">
   <diagram name="第 1 页" id="DXJGyLKz47heCSHpzHNM">
-    <mxGraphModel dx="2257" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,14 +170,8 @@
         <mxCell id="DaVctwpaXnIbaY3s7kiL-52" value="Signature Structure" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="470" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DaVctwpaXnIbaY3s7kiL-54" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-140" y="410" as="sourcePoint" />
-            <mxPoint x="120" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DaVctwpaXnIbaY3s7kiL-58" value="&lt;p class=&quot;heading-anchor&quot; id=&quot;the-attribute-certificate-table-image-only&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;The Attribute Certificate Table begin&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="370" width="250" height="50" as="geometry" />
+        <mxCell id="DaVctwpaXnIbaY3s7kiL-58" value="&lt;p class=&quot;heading-anchor&quot; id=&quot;the-attribute-certificate-table-image-only&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;pointer to The Attribute Certificate Table&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="500" width="280" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
