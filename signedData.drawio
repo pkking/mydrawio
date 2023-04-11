@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T04:20:14.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="gyh0O2qT7wKzB5Co5Y77" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T02:07:16.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="S5xdEwARusfyXCf4hmM1" version="21.1.1" type="github">
   <diagram name="第 1 页" id="P0nbOkxIb4XPzEd-AZDk">
     <mxGraphModel dx="1430" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BHiCeuq5a4ipHm1lESfC-1" value="Version" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="110" y="240" width="120" height="20" as="geometry" />
+        <mxCell id="BHiCeuq5a4ipHm1lESfC-1" value="Version int" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BHiCeuq5a4ipHm1lESfC-2" value="ContentInfo" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="110" y="280" width="120" height="30" as="geometry" />
@@ -13,10 +13,10 @@
         <mxCell id="BHiCeuq5a4ipHm1lESfC-4" value="SignerInfos" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="110" y="340" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BHiCeuq5a4ipHm1lESfC-5" value="digestAlg" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="110" y="260" width="120" height="20" as="geometry" />
+        <mxCell id="BHiCeuq5a4ipHm1lESfC-5" value="digestAlg (sha256/sha1/md5)" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BHiCeuq5a4ipHm1lESfC-6" value="Certificates" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="BHiCeuq5a4ipHm1lESfC-6" value="Certificates(x509)" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="110" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BHiCeuq5a4ipHm1lESfC-7" value="&lt;font&gt;&lt;b&gt;PKCS#7 SignedData in Microsoft Authicode&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
