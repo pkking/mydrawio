@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T06:22:06.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="RuNbanLq3zKoNEp2ryl-" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T06:22:55.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="58vDmkSGoSqnDAQpJ3oh" version="21.1.1" type="github">
   <diagram name="第 1 页" id="DXJGyLKz47heCSHpzHNM">
-    <mxGraphModel dx="1728" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,16 +8,16 @@
           <mxGeometry x="400" y="560" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xr7TNN4HcSWkNFldf1mO-2" value="&lt;font&gt;&lt;b&gt;PE/COFF file format&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="75" y="190" width="200" height="30" as="geometry" />
+          <mxGeometry x="75" y="160" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xr7TNN4HcSWkNFldf1mO-1" value="MS-DOS" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="110" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xr7TNN4HcSWkNFldf1mO-3" value="&lt;div&gt;PE Header&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="110" y="280" width="120" height="100" as="geometry" />
+          <mxGeometry x="110" y="250" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xr7TNN4HcSWkNFldf1mO-4" value="Optional Header" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="120" y="360" width="110" height="20" as="geometry" />
+          <mxGeometry x="120" y="330" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xr7TNN4HcSWkNFldf1mO-5" value="Standard Fileds" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="340" y="260" width="120" height="30" as="geometry" />
@@ -35,13 +35,13 @@
           <mxGeometry x="340" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xr7TNN4HcSWkNFldf1mO-12" value="COFF Header" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="120" y="340" width="110" height="20" as="geometry" />
+          <mxGeometry x="120" y="310" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xr7TNN4HcSWkNFldf1mO-13" value="Signature" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="120" y="320" width="110" height="20" as="geometry" />
+          <mxGeometry x="120" y="290" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xr7TNN4HcSWkNFldf1mO-14" value="Dos Header" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="120" y="300" width="110" height="20" as="geometry" />
+          <mxGeometry x="120" y="270" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xr7TNN4HcSWkNFldf1mO-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;" parent="1" target="xr7TNN4HcSWkNFldf1mO-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -141,7 +141,7 @@
           <mxGeometry x="550" y="642.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DaVctwpaXnIbaY3s7kiL-35" value="&lt;div&gt; PKCS#7 SignedData structure&lt;font&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="390" y="532.5" width="210" height="20" as="geometry" />
+          <mxGeometry x="550" y="575" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DaVctwpaXnIbaY3s7kiL-36" value="Header" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="270" y="530" width="110" height="25" as="geometry" />
@@ -179,7 +179,7 @@
             <mxPoint x="430" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DaVctwpaXnIbaY3s7kiL-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;" parent="1" target="DaVctwpaXnIbaY3s7kiL-30" edge="1">
+        <mxCell id="DaVctwpaXnIbaY3s7kiL-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" target="DaVctwpaXnIbaY3s7kiL-30" edge="1" source="DaVctwpaXnIbaY3s7kiL-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="560" as="sourcePoint" />
             <mxPoint x="570" y="510" as="targetPoint" />
@@ -191,7 +191,7 @@
             <mxPoint x="550" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DaVctwpaXnIbaY3s7kiL-77" value="padding with 0" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;dashed=1;" parent="1" vertex="1">
+        <mxCell id="DaVctwpaXnIbaY3s7kiL-77" value="other sections" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="500" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e_cj9tgiayqz5bf3QVdc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -226,6 +226,12 @@
             <mxPoint x="460" y="319.17" as="sourcePoint" />
             <mxPoint x="500" y="319.17" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e_cj9tgiayqz5bf3QVdc-12" value="section table" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cj9tgiayqz5bf3QVdc-13" value="&lt;div&gt; PKCS#7 structure&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="400" y="530" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
