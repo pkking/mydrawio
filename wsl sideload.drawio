@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T06:28:24.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="5VNwQvgYh2mjOW79xVbI" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T06:34:01.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="WAHZrDGiFt2GNLFHfzgq" version="21.1.1" type="github">
   <diagram name="第 1 页" id="_YdrFB4eVL0l_GqSobgY">
     <mxGraphModel dx="2901" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,13 +34,25 @@
           <mxGeometry x="200" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YoK6AqXioIDqrExozmYe-19" value="openEuler-22.03-LTS-SP1/wsl" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="680" width="190" height="60" as="geometry" />
+          <mxGeometry x="300" y="640" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YoK6AqXioIDqrExozmYe-21" value="openEuler-23.03/wsl" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="760" width="160" height="60" as="geometry" />
+          <mxGeometry x="300" y="720" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YoK6AqXioIDqrExozmYe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YoK6AqXioIDqrExozmYe-23" target="YoK6AqXioIDqrExozmYe-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YoK6AqXioIDqrExozmYe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YoK6AqXioIDqrExozmYe-23" target="YoK6AqXioIDqrExozmYe-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YoK6AqXioIDqrExozmYe-23" value="openEuler-20.03-LTS-SP3/wsl" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="840" width="190" height="60" as="geometry" />
+          <mxGeometry x="300" y="800" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YoK6AqXioIDqrExozmYe-25" value="aarch64" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="870" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YoK6AqXioIDqrExozmYe-26" value="x86_64" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="910" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
