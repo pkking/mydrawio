@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T02:50:22.694Z" agent="5.0 (Windows)" etag="rFNHCQ-vKL4-rbrh4eGQ" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T02:51:16.623Z" agent="5.0 (Windows)" etag="j4E3MK-zH7xr6TUTGDmW" version="21.0.2" type="github">
   <diagram name="第 1 页" id="EnIA6HLd-FOOzfXGk_vT">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,6 +71,15 @@
         </mxCell>
         <mxCell id="5NH7Vk-RzdT4zfK6c2rC-6" value="&lt;h1&gt;BTF Hub介绍&lt;br&gt;&lt;/h1&gt;&lt;p&gt;2个主要的功能：&lt;/p&gt;&lt;p&gt;1. 对不包含BTF的kernel，提供脚本和jenkins任务，生成对应的btf二进制，并归档/发布&lt;/p&gt;&lt;p&gt;2. 对任意eBPF文件，提供服务/工具，根据eBPF所需要的BTF，生成可以在任意openEuler发行版中使用的eBPF 二进制，实现真正的CO-RE&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="170" width="500" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5NH7Vk-RzdT4zfK6c2rC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5NH7Vk-RzdT4zfK6c2rC-7" target="eZA-BtdOcczapbWW00mo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5NH7Vk-RzdT4zfK6c2rC-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5NH7Vk-RzdT4zfK6c2rC-11" value="pull" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="910" y="360" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
