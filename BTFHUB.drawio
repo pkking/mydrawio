@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T06:29:55.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="Yfw41lRZDfijvIf4aIDM" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T06:33:04.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="uzdV1nsr3xHmqNe3_QAF" version="21.3.4" type="github">
   <diagram name="第 1 页" id="EnIA6HLd-FOOzfXGk_vT">
     <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="270" y="430" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="iiaPbigvtlAAhFLvftk5-2" value="script: openEuler btfgen" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
-          <mxGeometry x="380" y="400" width="130" height="70" as="geometry" />
+          <mxGeometry x="310" y="400" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iiaPbigvtlAAhFLvftk5-4" value="script: universal btfgen" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="380" y="535" width="160" height="50" as="geometry" />
@@ -75,7 +75,38 @@
           <mxGeometry x="910" y="360" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J86RuC473la1r3YLhs33-1" value="&lt;pre&gt;本次要实现的服务/工具&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="260" y="190" width="240" height="60" as="geometry" />
+          <mxGeometry x="260" y="110" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J86RuC473la1r3YLhs33-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="J86RuC473la1r3YLhs33-2" target="iiaPbigvtlAAhFLvftk5-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="360" />
+              <mxPoint x="410" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J86RuC473la1r3YLhs33-2" value="openEuler 20.03 LTS kernal debug rpm" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J86RuC473la1r3YLhs33-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="J86RuC473la1r3YLhs33-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J86RuC473la1r3YLhs33-4" value="openEuler 20.03 LTS SP1 kernel debug rpm" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="209" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J86RuC473la1r3YLhs33-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="J86RuC473la1r3YLhs33-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="596" y="360" />
+              <mxPoint x="411" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J86RuC473la1r3YLhs33-8" value="xxx" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="521" y="260" width="149" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
