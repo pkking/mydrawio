@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T16:41:43.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="izlBavCfTtcXnhbhT-EF" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T16:42:10.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="htDiS8ukSCp1UwIxW4Pa" version="21.3.8" type="github">
   <diagram name="Page-1" id="n4vi1D5M3QYKHS8s60AK">
     <mxGraphModel dx="1434" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,8 +53,8 @@
         <mxCell id="RPed6Ku-cKz_9hXtHq2g-16" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="390" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RPed6Ku-cKz_9hXtHq2g-18" value="get agreement by user&amp;nbsp; " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="125" y="388" width="150" height="30" as="geometry" />
+        <mxCell id="RPed6Ku-cKz_9hXtHq2g-18" value="get course by user&amp;nbsp; " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="388" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RPed6Ku-cKz_9hXtHq2g-20" value="player repo" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="650" y="60" width="100" height="450" as="geometry" />
