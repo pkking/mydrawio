@@ -1,11 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T06:37:45.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="TZ6J7BjRJIzYtd_rZSJ-" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T06:39:55.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="hDq16Rzer-ecR7JfDYdo" version="22.1.0" type="github">
   <diagram name="第 1 页" id="A6Zkvdzp1pMpmYnJnzD6">
     <mxGraphModel dx="2866" dy="1561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Da-CEmP_mSu1BHxWHgcb-10" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="Da-CEmP_mSu1BHxWHgcb-1" target="Da-CEmP_mSu1BHxWHgcb-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Da-CEmP_mSu1BHxWHgcb-30" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-50" width="370" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Da-CEmP_mSu1BHxWHgcb-10" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="Da-CEmP_mSu1BHxWHgcb-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="117.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Da-CEmP_mSu1BHxWHgcb-17" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="Da-CEmP_mSu1BHxWHgcb-14" target="Da-CEmP_mSu1BHxWHgcb-16">
           <mxGeometry relative="1" as="geometry" />
@@ -36,9 +41,6 @@
             <mxPoint x="-4" y="-107" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Da-CEmP_mSu1BHxWHgcb-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="-40" width="230" height="230" as="geometry" />
-        </mxCell>
         <mxCell id="Da-CEmP_mSu1BHxWHgcb-7" value="xihe.mindspore.cn cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="-335" y="-200" width="250" height="40" as="geometry" />
         </mxCell>
@@ -51,8 +53,8 @@
         <mxCell id="Da-CEmP_mSu1BHxWHgcb-11" value="oneid" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="20" y="-30" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Da-CEmP_mSu1BHxWHgcb-12" value="oneid" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-30" width="80" height="40" as="geometry" />
+        <mxCell id="Da-CEmP_mSu1BHxWHgcb-12" value="finetune/trainning/inference" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Da-CEmP_mSu1BHxWHgcb-13" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -83,6 +85,12 @@
         </mxCell>
         <mxCell id="Da-CEmP_mSu1BHxWHgcb-14" value="huawei cloud&lt;br&gt;ak/sk + tls" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="-265" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Da-CEmP_mSu1BHxWHgcb-28" value="code-server" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Da-CEmP_mSu1BHxWHgcb-29" value="gitlab" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
