@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T12:46:50.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="S4gnbu6MBTSl77jSNjIC" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T00:58:01.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Gyd7RU3QhCRD5k5mwxUC" version="22.1.20" type="github">
   <diagram name="第 1 页" id="-onAROi8wxiJjW0Dqyux">
-    <mxGraphModel dx="3106" dy="1961" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="1375" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,6 +8,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bs5nFUalNf5M3_HFQCwc-39" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="bs5nFUalNf5M3_HFQCwc-6" target="bs5nFUalNf5M3_HFQCwc-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bs5nFUalNf5M3_HFQCwc-42" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="bs5nFUalNf5M3_HFQCwc-6" target="bs5nFUalNf5M3_HFQCwc-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bs5nFUalNf5M3_HFQCwc-6" value="server（golang）" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
@@ -40,6 +43,11 @@
         <mxCell id="bs5nFUalNf5M3_HFQCwc-34" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="bs5nFUalNf5M3_HFQCwc-5" target="bs5nFUalNf5M3_HFQCwc-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bs5nFUalNf5M3_HFQCwc-40" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="bs5nFUalNf5M3_HFQCwc-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="216" y="152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bs5nFUalNf5M3_HFQCwc-5" value="k8s" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-654" y="115" width="764" height="60" as="geometry" />
         </mxCell>
@@ -67,7 +75,7 @@
         <mxCell id="bs5nFUalNf5M3_HFQCwc-20" value="&lt;h1&gt;送检计划&lt;/h1&gt;&lt;div&gt;1. 年后完成space开发&lt;/div&gt;&lt;div&gt;2. 3月中旬送检&lt;/div&gt;&lt;div&gt;3. 5月具备发布质量&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="492" y="-490" width="319" height="189" as="geometry" />
         </mxCell>
-        <mxCell id="bs5nFUalNf5M3_HFQCwc-21" value="&lt;h1&gt;模块介绍&lt;/h1&gt;&lt;div&gt;1. model，用户通过model的接口将模型文件上传到git，git将大文件上传到obs中存放&lt;/div&gt;&lt;div&gt;2. space，用户上传app代码，server将代码部署成pod供用户访问呢&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;风险识别：&lt;/div&gt;&lt;div&gt;1. 用户仓库分为私有和公有，但是文件都统一存放在一个公共的obs桶中&lt;/div&gt;&lt;div&gt;2. space能够将任意用户代码进行部署，并通过服务对外访问，容器需加固(或使用kata）&lt;/div&gt;&lt;div&gt;3. 不同用户启动的space之间需要隔离&lt;/div&gt;&lt;div&gt;4. git服务支持上传任意类型的文件&lt;/div&gt;&lt;div&gt;5. k8s加固&lt;/div&gt;&lt;div&gt;6. 自建docker registry&lt;/div&gt;&lt;div&gt;7. space-server和它创建的容器之间要做网络隔离&lt;/div&gt;&lt;div&gt;8. 数据库/redis/kafka里不能明文存储敏感信息&lt;/div&gt;&lt;div&gt;9. 数据库/redis/kafka口令不能用弱密码（弱密码的定义参考李希文的材料）或默认口令&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+        <mxCell id="bs5nFUalNf5M3_HFQCwc-21" value="&lt;h1&gt;模块介绍&lt;/h1&gt;&lt;div&gt;1. model，用户通过model的接口将模型文件上传到git，git将大文件上传到obs中存放&lt;/div&gt;&lt;div&gt;2. space，用户上传app代码，server将代码部署成pod供用户访问呢&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;风险识别：&lt;/div&gt;&lt;div&gt;1. 用户仓库分为私有和公有，但是文件都统一存放在一个公共的obs桶中&lt;/div&gt;&lt;div&gt;2. space能够将任意用户代码进行部署，并通过服务对外访问，容器需加固(或使用kata）&lt;/div&gt;&lt;div&gt;3. 不同用户启动的space之间需要隔离&lt;/div&gt;&lt;div&gt;4. git服务支持上传任意类型的文件&lt;/div&gt;&lt;div&gt;5. k8s加固&lt;/div&gt;&lt;div&gt;6. 自建docker registry&lt;/div&gt;&lt;div&gt;7. space-server和它创建的容器之间要做网络隔离&lt;/div&gt;&lt;div&gt;8. 数据库/redis/kafka里不能明文存储敏感信息&lt;/div&gt;&lt;div&gt;9. 数据库/redis/kafka口令不能用弱密码（弱密码的定义参考李希文的材料）或默认口令&lt;/div&gt;&lt;div&gt;10. 个人数据（手机号，邮箱需要加密保存）&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="492" y="-171" width="837" height="470" as="geometry" />
         </mxCell>
         <mxCell id="bs5nFUalNf5M3_HFQCwc-26" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="bs5nFUalNf5M3_HFQCwc-25" target="bs5nFUalNf5M3_HFQCwc-4">
@@ -102,6 +110,9 @@
         </mxCell>
         <mxCell id="bs5nFUalNf5M3_HFQCwc-38" value="kafka" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="87" y="38" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bs5nFUalNf5M3_HFQCwc-41" value="日志服务" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="219" y="124" width="132" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
