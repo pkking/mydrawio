@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T04:04:28.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="UqnIcVY3yvkHEU6A6AMd" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T04:05:57.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="LGDEE9LVIMF1e20uXaos" version="24.4.7" type="github">
   <diagram name="第 1 页" id="lk56JbLouKe6NAwdh4Cm">
     <mxGraphModel dx="2870" dy="1561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="rCN9uPQE8lMUD-80P1FL-10" value="space&amp;nbsp;1人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-276" y="-185" width="173" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rCN9uPQE8lMUD-80P1FL-12" value="openmind-hub&amp;nbsp; 1-2人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="rCN9uPQE8lMUD-80P1FL-12" value="openmind-hub&amp;nbsp; 1人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-166" y="-83" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rCN9uPQE8lMUD-80P1FL-13" value="python" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
