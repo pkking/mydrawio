@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T03:58:57.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="-HDPYh2FdqHzVGWxr639" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T04:01:31.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="IW8s_jfifEt2mMJW0zO8" version="24.4.7" type="github">
   <diagram name="第 1 页" id="lk56JbLouKe6NAwdh4Cm">
     <mxGraphModel dx="2870" dy="1961" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,34 +7,28 @@
         <mxCell id="rCN9uPQE8lMUD-80P1FL-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;openmind backend&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-412" y="-338" width="665" height="373" as="geometry" />
         </mxCell>
-        <mxCell id="rCN9uPQE8lMUD-80P1FL-3" value="models/datasets" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="rCN9uPQE8lMUD-80P1FL-3" value="models/datasets 1人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-399" y="-320" width="173" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rCN9uPQE8lMUD-80P1FL-6" value="user/org" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="rCN9uPQE8lMUD-80P1FL-6" value="user/org&amp;nbsp;1人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-179" y="-320" width="173" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rCN9uPQE8lMUD-80P1FL-7" value="git-access" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="rCN9uPQE8lMUD-80P1FL-7" value="git-access&amp;nbsp;1人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="-320" width="173" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rCN9uPQE8lMUD-80P1FL-8" value="dragonfly" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-215" width="173" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rCN9uPQE8lMUD-80P1FL-9" value="dragonfly" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-179" y="-215" width="173" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rCN9uPQE8lMUD-80P1FL-10" value="space" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="rCN9uPQE8lMUD-80P1FL-10" value="space&amp;nbsp;1人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-399" y="-217" width="173" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rCN9uPQE8lMUD-80P1FL-11" value="gitea" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-399" y="-117" width="173" height="60" as="geometry" />
+        <mxCell id="rCN9uPQE8lMUD-80P1FL-11" value="gitea&amp;nbsp;&amp;nbsp;1人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-177" y="-217" width="173" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rCN9uPQE8lMUD-80P1FL-12" value="openmind-hub" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-338" width="173" height="60" as="geometry" />
+        <mxCell id="rCN9uPQE8lMUD-80P1FL-12" value="openmind-hub&amp;nbsp; 2人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="268" y="-338" width="173" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rCN9uPQE8lMUD-80P1FL-13" value="python" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rCN9uPQE8lMUD-80P1FL-13" value="python" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="327" y="-483" width="64" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="rCN9uPQE8lMUD-80P1FL-14" value="golang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rCN9uPQE8lMUD-80P1FL-14" value="golang" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="327" y="-516" width="64" height="23" as="geometry" />
         </mxCell>
       </root>
