@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T10:18:34.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="1tGnmjT4XdP7CSz2M5TX" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T10:34:23.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="UgbtZXcj_q5oHEfVLWbk" version="24.7.1" type="github">
   <diagram name="第 1 页" id="5jZQfyqA7LlsZKFDpGUY">
     <mxGraphModel dx="3506" dy="2761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,6 +91,9 @@
         <mxCell id="LPszTCYnKOj5HFPYQ0QZ-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="LPszTCYnKOj5HFPYQ0QZ-1" target="LPszTCYnKOj5HFPYQ0QZ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LPszTCYnKOj5HFPYQ0QZ-15" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="LPszTCYnKOj5HFPYQ0QZ-1" target="LPszTCYnKOj5HFPYQ0QZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LPszTCYnKOj5HFPYQ0QZ-1" value="kata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-662" y="-1083" width="120" height="60" as="geometry" />
         </mxCell>
@@ -112,8 +115,17 @@
         <mxCell id="LPszTCYnKOj5HFPYQ0QZ-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="LPszTCYnKOj5HFPYQ0QZ-7" target="LPszTCYnKOj5HFPYQ0QZ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LPszTCYnKOj5HFPYQ0QZ-7" value="device plugin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LPszTCYnKOj5HFPYQ0QZ-7" value="device plugin(vfio-dp)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-542" y="-1196" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LPszTCYnKOj5HFPYQ0QZ-14" value="vm image(modified)&lt;div&gt;vm kernel(modified)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-902" y="-1083" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LPszTCYnKOj5HFPYQ0QZ-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="LPszTCYnKOj5HFPYQ0QZ-16" target="LPszTCYnKOj5HFPYQ0QZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LPszTCYnKOj5HFPYQ0QZ-16" value="ascend HDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1074" y="-1083" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
