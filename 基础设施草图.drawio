@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.6" pages="2">
   <diagram name="第 1 页" id="cuDvIR6GlrQm0H4oQxtx">
     <mxGraphModel dx="2122" dy="1324" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -198,6 +198,97 @@
         </mxCell>
         <mxCell id="E2NUBiW29PT-hDMwpMA1-10" value="CVE" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="367" y="106" width="70" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="G0_mMGbiInow4497-o7Y" name="第 2 页">
+    <mxGraphModel dx="873" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;软件包开发与维护&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="90" width="920" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-1" value="fedora" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-2" value="文档" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-3" value="了解" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-4" value="代码提交" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="570" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-5" value="代码评审" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="650" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-6" value="文档" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-7" value="openEuler" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-8" value="gitee.com/src-openeuler" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-10" value="src.fedoraproject.com" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="570" y="180" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-13" value="贡献者协议" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-14" value="agreement" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-15" value="CLA" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-16" value="CI" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="757" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="jenkins" link="https://github.com/fedora-ci" linkTarget="_blank" id="zvL3UJ5DEkBXC9KE-6RC-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+            <mxGeometry x="757" y="180" width="73" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-18" value="jenkins" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="757" y="260" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-19" value="build" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="860" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="koji" linkTarget="_blank" id="zvL3UJ5DEkBXC9KE-6RC-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+            <mxGeometry x="860" y="180" width="73" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-21" value="eulermaker" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="857" y="260" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-22" value="release" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="960" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="bodhi&lt;div&gt;pungi&lt;/div&gt;&lt;div&gt;&lt;div&gt;sigul&lt;/div&gt;&lt;div&gt;koschi&lt;/div&gt;&lt;/div&gt;" linkTarget="_blank" id="zvL3UJ5DEkBXC9KE-6RC-23">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+            <mxGeometry x="960" y="165" width="73" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-24" value="&lt;div&gt;signatrust&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="957" y="260" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-29" value="问题反馈" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="bugzilla" linkTarget="_blank" id="zvL3UJ5DEkBXC9KE-6RC-30">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+            <mxGeometry x="1060" y="180" width="73" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zvL3UJ5DEkBXC9KE-6RC-31" value="&lt;div&gt;issue&lt;/div&gt;&lt;div&gt;quickissue&lt;/div&gt;&lt;div&gt;CVE-manager&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="260" width="83" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
