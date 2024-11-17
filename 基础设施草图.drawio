@@ -457,7 +457,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nZTwIyHsgICkhCVXD5JB-1" value="OSCI.io" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="760" height="60" as="geometry" />
+          <mxGeometry x="40" y="360" width="760" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nZTwIyHsgICkhCVXD5JB-2" value="VMs" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="150" y="300" width="50" height="20" as="geometry" />
