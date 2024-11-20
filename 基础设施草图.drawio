@@ -557,16 +557,16 @@
           <mxGeometry x="259" y="530" width="351" height="155" as="geometry" />
         </mxCell>
         <mxCell id="Db4Ewis6a7fnc0YROhV7-4" value="开发者" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="260" y="470" width="80" height="30" as="geometry" />
+          <mxGeometry x="260" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Db4Ewis6a7fnc0YROhV7-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="350" y="470" width="80" height="30" as="geometry" />
+          <mxGeometry x="350" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Db4Ewis6a7fnc0YROhV7-6" value="伙伴" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="440" y="470" width="80" height="30" as="geometry" />
+          <mxGeometry x="440" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Db4Ewis6a7fnc0YROhV7-7" value="运营" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="530" y="470" width="80" height="30" as="geometry" />
+          <mxGeometry x="530" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Db4Ewis6a7fnc0YROhV7-12" value="公有云" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="290" y="640" width="90" height="30" as="geometry" />
@@ -578,25 +578,25 @@
           <mxGeometry x="500" y="640" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eh8Y7mC6Vf1ZVNf7jPC1-1" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="130" y="530" width="60" height="92.5" as="geometry" />
+          <mxGeometry x="150" y="530" width="60" height="150" as="geometry" />
         </mxCell>
         <mxCell id="eh8Y7mC6Vf1ZVNf7jPC1-3" value="外部依赖" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="130" y="640" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2XaDL4h8-SS8cziMGIkl-1" value="软件开发和维护" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="260" y="410" width="90" height="30" as="geometry" />
+          <mxGeometry x="260" y="480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2XaDL4h8-SS8cziMGIkl-2" value="用户服务" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="385" y="410" width="90" height="30" as="geometry" />
+          <mxGeometry x="385" y="480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2XaDL4h8-SS8cziMGIkl-4" value="组织运作" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="510" y="410" width="100" height="30" as="geometry" />
+          <mxGeometry x="510" y="480" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2XaDL4h8-SS8cziMGIkl-6" value="工作流" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="130" y="410" width="60" height="30" as="geometry" />
+        <mxCell id="2XaDL4h8-SS8cziMGIkl-6" value="活动" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="150" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2XaDL4h8-SS8cziMGIkl-7" value="用户" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="130" y="470" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2XaDL4h8-SS8cziMGIkl-8" value="上层应用" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="290" y="550" width="300" height="30" as="geometry" />
